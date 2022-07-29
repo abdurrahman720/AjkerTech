@@ -12,6 +12,10 @@ p{
     filter:brightness(100%);
 }
 
+.carousel-text p{
+    color:lightcyan;
+}
+
 .register-text p{
     color:#F4FAFD;
 }
@@ -23,6 +27,10 @@ p{
 
 .register-btn{
     background-color: #fff;
+}
+
+.btn-primary-white{
+    background-color: transparent;
 }
 
 @media (max-width: 576px) { 
