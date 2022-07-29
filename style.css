@@ -1,0 +1,21 @@
+
+
+
+.carousel-item img {
+    min-height: 300px;
+    
+}
+
+@media (max-width: 576px) { 
+    .banner-text h1{
+        font-size: 1.5em;
+    }
+    
+    .banner-text p{
+        font-size: 0.5em;
+    }
+    .carousel-item img {
+        height: 300px;
+    }
+    
+ }
