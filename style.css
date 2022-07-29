@@ -1,4 +1,11 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
 
 p{
     color:#7777;
@@ -12,6 +19,10 @@ p{
 .carousel-item img {
     min-height: 300px;
     filter: brightness(50%);
+}
+
+.register-btn{
+    background-color: #fff;
 }
 
 @media (max-width: 576px) { 
