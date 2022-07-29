@@ -3,7 +3,7 @@
 
 .carousel-item img {
     min-height: 300px;
-    
+    filter: brightness(50%);
 }
 
 @media (max-width: 576px) { 
