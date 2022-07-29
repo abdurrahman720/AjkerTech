@@ -1,5 +1,13 @@
 
 
+p{
+    color:#7777;
+    filter:brightness(100%);
+}
+
+.register-text p{
+    color:#F4FAFD;
+}
 
 .carousel-item img {
     min-height: 300px;
@@ -22,4 +30,8 @@
 
  .text-bg{
     background-color: #F4FAFD;
+ }
+
+ .btn-white{
+    background-color: #ffff;
  }
